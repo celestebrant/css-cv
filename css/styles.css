@@ -54,7 +54,7 @@ a:hover {
 /* CLASS SELECTOR */
 .top-container {
     background-color:#a7c5eb;
-    padding-top: 100px;
+    padding-top: 40px;
     position: relative;
     z-index: -5;
 }
